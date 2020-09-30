@@ -1,0 +1,1 @@
+A utility to check AWS Redshift connection.
